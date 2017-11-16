@@ -25,7 +25,7 @@ for entry in news:
 
 
 for entry in news_unique:
-    print("【"+entry["title"]+"】")
+    print("## "+entry["title"])
     print(entry["description"])
     print()
 
