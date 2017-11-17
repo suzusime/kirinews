@@ -12,6 +12,8 @@ NHKニュースのRSSを取得し、その内容を東北きりたん（他VOICE
   
   - `■` でウエイトがかかることを想定して作っています。そのあたりは適宜コードを調整してください。
 - python 3.6
+- feedparser
+  - `$ pip install feedparser`
 
 ## 使い方
 ```bash
